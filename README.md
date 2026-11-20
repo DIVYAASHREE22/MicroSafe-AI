@@ -45,3 +45,4 @@ Growth-envelope fields in `data/growth_profiles.json` are `TO_VERIFY` pending so
 - The app is a local hackathon prototype, with no authentication, backup, access controls, calibration, or production audit guarantees.
 - Simplifying choice: risk/shelf-life models are trained on demand; the demo seed is loaded only when the database has no batches; event history records registrations, readings, and assessments.
 "# MicroSafe-AI" 
+"# MicroSafe-AI" 
