@@ -1,0 +1,5 @@
+[
+ {"organism":"Listeria monocytogenes","temperature_min_c":"TO_VERIFY","temperature_opt_c":"TO_VERIFY","temperature_max_c":"TO_VERIFY","ph_min":"TO_VERIFY","aw_min":"TO_VERIFY","source_name":"FDA Bad Bug Book (verify strain and matrix applicability)","source_url":"https://www.fda.gov/media/83271/download"},
+ {"organism":"Salmonella enterica","temperature_min_c":"TO_VERIFY","temperature_opt_c":"TO_VERIFY","temperature_max_c":"TO_VERIFY","ph_min":"TO_VERIFY","aw_min":"TO_VERIFY","source_name":"FDA Bad Bug Book (verify strain and matrix applicability)","source_url":"https://www.fda.gov/media/83271/download"},
+ {"organism":"Escherichia coli O157:H7","temperature_min_c":"TO_VERIFY","temperature_opt_c":"TO_VERIFY","temperature_max_c":"TO_VERIFY","ph_min":"TO_VERIFY","aw_min":"TO_VERIFY","source_name":"FDA Bad Bug Book (verify strain and matrix applicability)","source_url":"https://www.fda.gov/media/83271/download"}
+]
